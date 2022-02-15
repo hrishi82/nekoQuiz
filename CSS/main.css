@@ -6,6 +6,7 @@
 @import url('./cards.css');
 @import url('./homepage.css');
 @import url('/pages/categories/categories.css');
+@import url('/pages/quizpage/quiz.css');
 
 :root{
     font-family: 'Roboto', sans-serif;
@@ -33,6 +34,10 @@
 
     /* Body color */
     --body-bg: #001219;
+
+    /* Quiz btn */
+    --quiz-btn-default-bg: rgb(26, 25, 27);
+    --quiz-btn-selected-bg: rgb(53, 53, 53);
 }
 
 
