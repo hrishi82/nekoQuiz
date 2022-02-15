@@ -18,6 +18,8 @@
     --secondary-clr: white;
     --seconadary-hover-clr: white;
 
+    --correct-clr: rgb(0, 97, 0);
+    --wrong-clr: #970000;
 
     
     --white-bg: rgb(255, 255, 255);
@@ -60,6 +62,11 @@ body{
 }
 
 .full-width{
+    width: 100%;
+}
+
+.full-width-block{
+    display: block;
     width: 100%;
 }
 
