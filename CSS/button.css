@@ -11,7 +11,13 @@
 }
 
 .pill-btn-lg{
+    border-radius: 7rem;
     padding: 0.8rem 1.5rem;
+}
+
+.pill-btn-xl{
+    border-radius: 10rem;
+    padding: 1.5rem 3rem;
 }
 
 .card-btn{
@@ -21,5 +27,12 @@
 
 .outline-success-btn{
     background-color: transparent;
+}
+
+
+.big-pill-btn-container{
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
 }
 
