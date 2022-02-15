@@ -21,6 +21,7 @@
 
     --correct-clr: rgb(0, 97, 0);
     --wrong-clr: #970000;
+
     
     --white-bg: rgb(255, 255, 255);
     --dark-bg: rgb(31, 31, 31);
@@ -66,6 +67,11 @@ body{
 }
 
 .full-width{
+    width: 100%;
+}
+
+.full-width-block{
+    display: block;
     width: 100%;
 }
 
