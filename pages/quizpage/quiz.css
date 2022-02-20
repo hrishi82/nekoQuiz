@@ -44,13 +44,22 @@
     background-color: var(--quiz-btn-selected-bg);
 }
 
+.result-pg-quiz-button{
+    color: var(--text-default-clr);
+    background-color: var(--quiz-btn-default-bg);
+    border: none;
+    margin: 0.5rem;
+    padding: 1.1rem 2rem;
+    border-radius: 1rem;
+}
+
 .correct-option{
     background-color: var(--correct-clr);
 }
+
 .wrong-option{
     background-color: var(--wrong-clr);
 }
-
 
 .check-result-btn-container{
     margin: 2rem;
