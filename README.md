@@ -1,9 +1,13 @@
 # nekoQuiz
  A quiz app, made for cat lovers
 
+<br/>
+
  ## Tech stack used
  - HTML
  - CSS
+
+<br/>
 
 ## Pages Added
 - Home Page
@@ -12,8 +16,14 @@
 - MCQ based Quiz Question Page
 - Result Page with Answers & Score
 
+<br/>
+
 ## Live Link:
-- https://nekoquiz.netlify.app/
+https://nekoquiz.netlify.app/
+
+
+<br/>
+
 
 ## UI Snapshots:
 
